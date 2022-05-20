@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/google.com"
+                 "value":"https:\/\/console.grinlive.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,7 +228,7 @@
          "name":"clockZone",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
