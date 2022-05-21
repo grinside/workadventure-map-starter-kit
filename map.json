@@ -408,10 +408,59 @@
                  "width":93.7162209047986,
                  "x":483.919325398621,
                  "y":14.0269116471316
+                }, 
+                {
+                 "height":18.84375,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":84.625,
+                 "x":1326.25892857143,
+                 "y":-1137.99330357143
+                }, 
+                {
+                 "height":2.85714285714286,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":342.857142857143,
+                 "y":77.1428571428571
+                }, 
+                {
+                 "height":2.85714285714286,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":342.857142857143,
+                 "y":77.1428571428571
+                }, 
+                {
+                 "height":2.85714285714286,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":342.857142857143,
+                 "y":77.1428571428571
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -512,18 +561,18 @@
          "y":0
         }],
  "nextlayerid":50,
- "nextobjectid":13,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: Rabah GUENDOUZ"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"MOTIONLESS"
         }, 
         {
          "name":"mapImage",
