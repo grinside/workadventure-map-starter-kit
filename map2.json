@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
