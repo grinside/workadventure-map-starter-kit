@@ -126,7 +126,7 @@
                  "value":"map1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -261,7 +261,7 @@
          "name":"Tile Layer 15",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -308,7 +308,7 @@
                  "value":"map3.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -413,7 +413,7 @@
                 }],
          "tintcolor":"#dede04",
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -470,7 +470,7 @@
                  "value":"Press SPACE \/ Entrer dans IMMERSIVE TOUR"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -511,7 +511,7 @@
          "name":"clockZone",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -552,7 +552,7 @@
          "name":"Tile Layer 10",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
