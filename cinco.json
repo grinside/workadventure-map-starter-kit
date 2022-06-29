@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"rct1.json"
+                 "value":"cinco1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
