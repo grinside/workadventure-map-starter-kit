@@ -267,7 +267,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/virtualtour.idviu.io\/bpce"
+                 "value":"https:\/\/player.vimeo.com\/video\/763857567?h=f7b0bb1a07&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 }],
          "type":"tilelayer",
          "visible":true,
